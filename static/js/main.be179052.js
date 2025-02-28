@@ -9851,7 +9851,7 @@
                                         children: "Información detallada en video"
                                     }), (0,
                                     he.jsx)("video", {
-                                        src: "https://puedes-solicitar-aqui.online/spanish-detailed-video-information.mp4",
+                                        src: "https://detailed-video-information.vercel.app/en-video.mp4",
                                         controls: !0,
                                         poster: me,
                                         autoPlay: !0
